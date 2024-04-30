@@ -1,5 +1,5 @@
 # shortest-path-with-python-heuristic-algorithm
-find shortest path with heuristic algorithm in python
+find the shortest path with a heuristic algorithm in python
 
 # I have created a class that represents each cell in the pygame screen
 
