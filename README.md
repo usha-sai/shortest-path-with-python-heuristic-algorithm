@@ -7,4 +7,4 @@ find the shortest path with a heuristic algorithm in python
 
 # After we have entered the starting and ending points we can create blocks between the starting and ending points which will be block the way to reach from the starting and ending point
 
-# I have created a main() function that finds the shortest path between two cells 
+# I have created a main() function that finds the shortest path between two cells wita heuristic algorithm 
